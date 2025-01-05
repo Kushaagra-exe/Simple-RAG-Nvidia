@@ -3,4 +3,5 @@ langchain_community
 langchain_core
 streamlit
 langchain_nvidia_ai_endpoints
-FAISS
+faiss-cpu
+tempfiles
