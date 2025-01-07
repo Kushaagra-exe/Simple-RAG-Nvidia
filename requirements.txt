@@ -4,4 +4,3 @@ langchain_core
 streamlit
 langchain_nvidia_ai_endpoints
 faiss-cpu
-tempfile
